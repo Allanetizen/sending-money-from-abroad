@@ -1,5 +1,7 @@
 #include<stdio.h>
  main()
+ 
+
 {
 	int pin,amount,amount_received;
 	float dollar=100.27;
